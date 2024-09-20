@@ -1,0 +1,11 @@
+This program evaluates the strength of a password based on key criteria: 
+length, use of both uppercase and lowercase letters, inclusion of numbers, and special characters. 
+After entering a password, the program assesses its strength and provides feedback, helping users improve their passwords for better security.
+
+Creteria in play :
+
+Password Length: The password must be at least 8 characters long.
+Lowercase Letters: The password should contain at least one lowercase letter.
+Uppercase Letters: The password should contain at least one uppercase letter.
+Numbers: The password should include at least one digit.
+Special Characters: The password should include at least one special character.
